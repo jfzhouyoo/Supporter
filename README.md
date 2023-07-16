@@ -3,9 +3,7 @@
 
 > The implementation of our paper accepted by ACL 2023: Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach
 
-<img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> 
-<img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/>  
-<img src="https://img.shields.io/badge/Last%20Updated-2022--12-2D333B" alt="update"/>
+<img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/>  <img src="https://img.shields.io/badge/Last%20Updated-2022--12-2D333B" alt="update"/>
 
 ## Requirements
 
@@ -16,7 +14,7 @@
 
 ## Dataset
 
-- The preprocessed dataset is already provided at [Google Driven]. Change the folder name to `data`.
+- The preprocessed dataset is already provided at [Google Driven](https://drive.google.com/file/d/1JpR37D_IHt_FYwY49pI-Q4SO7bjXQ6iG/view?usp=sharing). Change the folder name to `data`.
 
 - If you want to create the dataset yourself, download the [comet-atomic-2020 (BART) checkpoint](https://github.com/allenai/comet-atomic-2020) and place it in `/data/ConstructDataset/Comet`. The preprocessing details could be found in the `main.sh` script.
 
@@ -27,7 +25,7 @@
 
 ### Dialogue Coherence Reward Models
 
-- The trained Dialogue Coherence Reward Models is already provided at [Google Driven].
+- The trained Dialogue Coherence Reward Models is already provided at [Google Driven](https://drive.google.com/file/d/1JpR37D_IHt_FYwY49pI-Q4SO7bjXQ6iG/view?usp=sharing).
 - Download [bert-base-cased](https://huggingface.co/bert-base-cased), and put it into the `rewards/bert`
 
 - If you want to train the Dialogue Coherence Reward Models yourself:

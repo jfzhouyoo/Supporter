@@ -43,7 +43,7 @@ bash main.py
 ```
 
 ## Citation
-
+If you find our work useful for your research, please kindly cite our paper as follows:
 ```
 @inproceedings{DBLP:conf/acl/ZhouCWH23,
   author       = {Jinfeng Zhou and

@@ -3,9 +3,7 @@
 
 > The implementation of our paper accepted by ACL 2023: Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach
 
-<img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> 
-<img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/>  
-<img src="https://img.shields.io/badge/Last%20Updated-2022--12-2D333B" alt="update"/>
+<img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/>  <img src="https://img.shields.io/badge/Last%20Updated-2022--12-2D333B" alt="update"/>
 
 ## Requirements
 
